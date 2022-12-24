@@ -5,13 +5,16 @@
 funny app to detect whether cat or not by importing image you want to challenge the model with 🤓
 
 <h2>Notes 🧪</h2>
-this model is the result of learning from the first course of deep learning specialization and almost have all concept that took inside the course
+this model is the result of learning from the first course of deep learning specialization <br/>
+and almost have all concept that took inside the course
 
-<h2>Requirements 🦄<h2>
-numpy
-Pillow
-matplotlib
+<h2>Requirements 🦄</h2>
+numpy<br/>
+Pillow<br/>
+matplotlib<br/>
 
 <h2>Accuracy 📊</h2>
-train accuracy = 98%
-test accuracy = 80%
+train accuracy = 98% <br/>
+test accuracy = 80% <br/>
+
+
