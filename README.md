@@ -1,6 +1,6 @@
 <h2>Scratched Neural Network for Cat Classifiation 😺 </h2>
 
-![Acat](https://user-images.githubusercontent.com/91970695/209449818-d4f22051-8e75-4fc4-99ca-e99a7abc2c59.jpg)
+![recat](https://user-images.githubusercontent.com/91970695/209450012-b16ef2ea-c649-4913-81c4-bdbaa3be51dc.jpg)
 
 funny app to detect whether cat or not by importing image you want to challenge the model with 🤓
 
